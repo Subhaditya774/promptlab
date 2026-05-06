@@ -1,0 +1,12 @@
+[
+  { "id": "tc_001", "input": "Generate a SOW for a mobile app with login, dashboard, and payment integration. Budget: $20,000. Timeline: 3 months.", "expectedKeys": ["deliverables", "milestones", "paymentTerms"] },
+  { "id": "tc_002", "input": "Create a basic SOW for a landing page redesign. Budget: $3,000. Timeline: 2 weeks.", "expectedKeys": ["deliverables", "milestones"] },
+  { "id": "tc_003", "input": "Write an enterprise SOW for a multi-tenant SaaS platform with HIPAA compliance. Budget: $150,000. Timeline: 12 months.", "expectedKeys": ["deliverables", "milestones", "slaDefinitions", "ipClause"] },
+  { "id": "tc_004", "input": "SOW for data migration from legacy Oracle DB to PostgreSQL. Budget: $15,000. Timeline: 6 weeks.", "expectedKeys": ["deliverables", "milestones", "acceptanceCriteria"] },
+  { "id": "tc_005", "input": "Generate a SOW for AI chatbot integration into existing CRM. Budget: $25,000. Timeline: 2 months.", "expectedKeys": ["deliverables", "milestones", "paymentTerms"] },
+  { "id": "tc_006", "input": "SOW for e-commerce platform with Shopify customisation and payment gateway. Budget: $30,000. Timeline: 10 weeks.", "expectedKeys": ["deliverables", "milestones"] },
+  { "id": "tc_007", "input": "Create SOW for API development — 15 REST endpoints with auth and rate limiting. Budget: $12,000. Timeline: 6 weeks.", "expectedKeys": ["deliverables", "milestones", "acceptanceCriteria"] },
+  { "id": "tc_008", "input": "Write SOW for React Native mobile app (iOS + Android). Budget: $45,000. Timeline: 5 months.", "expectedKeys": ["deliverables", "milestones", "ipClause"] },
+  { "id": "tc_009", "input": "Enterprise SOW for ERP system integration between SAP and custom Node.js microservices. Budget: $200,000. Timeline: 18 months.", "expectedKeys": ["deliverables", "milestones", "slaDefinitions", "disputeResolution"] },
+  { "id": "tc_010", "input": "SOW for DevOps setup: CI/CD pipeline, Docker containerisation, AWS deployment. Budget: $8,000. Timeline: 3 weeks.", "expectedKeys": ["deliverables", "milestones"] }
+]
